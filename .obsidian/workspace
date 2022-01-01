@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d61a928bc3e74450",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a60bb789bf10c29",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202201011111 Journal.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdd1c808ee44f5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d268c74781385435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e363b3ba991be9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5323c83050cbb627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4b513b920544d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f2ec47a44f06e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0439f272856110ef",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "202201011111 Journal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4a60bb789bf10c29",
+  "lastOpenFiles": [
+    "202201011111 Journal.md",
+    "2022-01-01.md"
+  ]
+}
