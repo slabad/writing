@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201011111 Journal.md",
+            "file": "test git sync.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201011111 Journal.md",
+                "file": "test git sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,17 +80,26 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "179c88f2baf847d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4a60bb789bf10c29",
   "lastOpenFiles": [
-    "202201011111 Journal.md",
-    "2022-01-01.md"
+    "test git sync.md",
+    "2022-01-01.md",
+    "202201011111 Journal.md"
   ]
 }
