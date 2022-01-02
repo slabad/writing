@@ -7,8 +7,13 @@
         "id": "4a60bb789bf10c29",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-01-02.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-01-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +94,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "4a60bb789bf10c29",
   "lastOpenFiles": [
+    "2022-01-02.md",
+    "202201011111 Journal.md",
     "test git sync.md",
-    "2022-01-01.md",
-    "202201011111 Journal.md"
+    "2022-01-01.md"
   ]
 }
