@@ -7,8 +7,13 @@
         "id": "4a60bb789bf10c29",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +89,7 @@
   },
   "active": "4a60bb789bf10c29",
   "lastOpenFiles": [
+    "202201070933 DTJ Quote on Turnning the other cheek.md",
     "conflict-files-obsidian-git.md",
     "202201011111 Journal.md",
     "2022-01-01.md"
