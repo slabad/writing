@@ -1,5 +1,5 @@
 created: 2022-01-07T09:33:09 (UTC -05:00)
-tags: [[politics]] 
+tags: [[politics]] [[quotes]] 
 source: https://www.relevantmagazine.com/current/nation/biblical-scholar-donald-trump-jr-tells-young-conservatives-that-following-the-bible-has-gotten-us-nothing/
 author: by Tyler Huckabee 
 

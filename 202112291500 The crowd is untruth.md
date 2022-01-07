@@ -1,3 +1,5 @@
+[[quotes]]
+
 “The crowd is untruth”
 ~Søren Kierkegaard
 
