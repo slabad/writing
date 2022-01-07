@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "sliding-panes-obsidian",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-admonition",
+  "note-refactor-obsidian"
 ]
