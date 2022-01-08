@@ -7,8 +7,13 @@
         "id": "9da39b3d90ead93b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "templates/sermon.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/sermon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/sermon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/sermon.md"
+              }
             }
           }
         ],
@@ -130,6 +139,11 @@
   },
   "active": "9da39b3d90ead93b",
   "lastOpenFiles": [
+    "templates/sermon.md",
+    "202201080940 Sermon Love God Love People.md",
+    "202201031701 Overcoming Fake News - Holy Post.md",
+    "202201070933 DTJ Quote on Turnning the other cheek.md",
+    "202112291500 The crowd is untruth.md",
     "2022-01-03.md",
     "2022-01-02.md",
     "2022-01-01.md",
