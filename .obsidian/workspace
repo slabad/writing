@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/sermon.md",
+            "file": "202201080940 Sermon Love God Love People.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/sermon.md",
+                "file": "202201080940 Sermon Love God Love People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/sermon.md",
+                "file": "202201080940 Sermon Love God Love People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/sermon.md"
+                "file": "202201080940 Sermon Love God Love People.md"
               }
             }
           }
@@ -139,14 +139,15 @@
   },
   "active": "9da39b3d90ead93b",
   "lastOpenFiles": [
-    "templates/sermon.md",
     "202201080940 Sermon Love God Love People.md",
+    "202201081094 Mark 12_28_34.md",
+    "templates/zettlecasten number.md",
     "202201031701 Overcoming Fake News - Holy Post.md",
-    "202201070933 DTJ Quote on Turnning the other cheek.md",
     "202112291500 The crowd is untruth.md",
+    "templates/sermon.md",
+    "202201070933 DTJ Quote on Turnning the other cheek.md",
     "2022-01-03.md",
     "2022-01-02.md",
-    "2022-01-01.md",
-    "test git sync.md"
+    "2022-01-01.md"
   ]
 }
