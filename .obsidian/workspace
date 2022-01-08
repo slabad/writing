@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a60bb789bf10c29",
+        "id": "9da39b3d90ead93b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,6 +44,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d7fb01a29d7cc4b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -70,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,22 +82,57 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "179c88f2baf847d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "46a04249a2b13ba9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03dfaf707857f9cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c9d22900397b8f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a60bb789bf10c29",
+  "active": "9da39b3d90ead93b",
   "lastOpenFiles": [
-    "202201070933 DTJ Quote on Turnning the other cheek.md",
-    "202201071018 Trump Stole Christmas - Holy Post.md",
-    "202201031701 Overcoming Fake News - Holy Post.md",
-    "templates/podcast.md",
-    "202112291500 The crowd is untruth.md",
-    "journal/2022-01-01.md",
-    "conflict-files-obsidian-git.md",
-    "202201011111 Journal.md"
+    "2022-01-03.md",
+    "2022-01-02.md",
+    "2022-01-01.md",
+    "test git sync.md"
   ]
 }
