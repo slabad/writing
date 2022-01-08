@@ -16,7 +16,6 @@ collapse:
 [[Leviticus 19_18]]
 
 
-Possible Outline:
 
 A passage of imperatives;
 
@@ -33,9 +32,10 @@ There's something appealing about that claim, isn't there. If we could just simp
 
 Let's look together at the Gospel of Mark this morning, chapter 12, and listen to Jesus as he talks about that “one thing” above every other “one thing”.
 ```
-1. Hear O Israel - Shema
-2. Know
-3. Love 
+
+Possible Outline:
+1. [[202201081294 Love God]]
+2. [[202201081252 Love Others]]
 
 
 #### Reference
