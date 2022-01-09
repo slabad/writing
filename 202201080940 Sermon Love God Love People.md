@@ -41,3 +41,4 @@ Possible Outline:
 #### Reference
 
 [[If You Just Do This One Thing]]
+https://sermonwriter.com/biblical-commentary/new-testament-mark-1228-34/
