@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/journal template.md",
+            "file": "templates/tweet.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/journal template.md",
+                "file": "templates/tweet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/journal template.md",
+                "file": "templates/tweet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/journal template.md"
+                "file": "templates/tweet.md"
               }
             }
           }
@@ -153,6 +153,8 @@
   },
   "active": "2665e26ba6d9e452",
   "lastOpenFiles": [
+    "templates/tweet.md",
+    "202201090907 Love your country.md",
     "templates/journal template.md",
     "test.md",
     "journal/2022-01-01.md",
@@ -160,8 +162,6 @@
     "journal/2022-01-03.md",
     "resources/If You Just Do This One Thing.md",
     "evernote_notebooks/20140914 Words Matter - Words of Encouragement/Parakaleo - New Testament Greek Lexicon - New American Standard.md",
-    "evernote_notebooks/20140914 Words Matter - Words of Encouragement/Strongs's #3870_ parakaleo - Greek_Hebrew Definitions - Bible Tools.md",
-    "evernote_notebooks/20150412 Freedom From Worry/Shackleton's Antarctic Adventure.md",
-    "evernote_notebooks/20141215 Narrow is the gate/The Narrow Way _ Preaching.com.md"
+    "evernote_notebooks/20140914 Words Matter - Words of Encouragement/Strongs's #3870_ parakaleo - Greek_Hebrew Definitions - Bible Tools.md"
   ]
 }
