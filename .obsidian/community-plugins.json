@@ -1,7 +1,9 @@
 [
   "obsidian-git",
+  "sliding-panes-obsidian",
   "templater-obsidian",
   "obsidian-outliner",
   "obsidian-admonition",
-  "note-refactor-obsidian"
+  "note-refactor-obsidian",
+  "dataview"
 ]
