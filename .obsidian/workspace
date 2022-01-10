@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "resources/Chris Holtmann Article.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "resources/Chris Holtmann Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "resources/Chris Holtmann Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "resources/Chris Holtmann Article.md"
               }
             }
           }
@@ -153,6 +153,7 @@
   },
   "active": "2665e26ba6d9e452",
   "lastOpenFiles": [
+    "resources/Chris Holtmann Article.md",
     "obsidian.md",
     "202201031701 Overcoming Fake News - Holy Post.md",
     "resources/Mark 12_28-34.md",
@@ -161,7 +162,6 @@
     "resources/Deuteronomy 6_4-5.md",
     "resources/Christians and the pagans.md",
     "templates/tweet.md",
-    "202201090907 Love your country.md",
-    "templates/journal template.md"
+    "202201090907 Love your country.md"
   ]
 }
