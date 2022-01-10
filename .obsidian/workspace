@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201031701 Overcoming Fake News - Holy Post.md",
+            "file": "obsidian.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201031701 Overcoming Fake News - Holy Post.md",
+                "file": "obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202201031701 Overcoming Fake News - Holy Post.md",
+                "file": "obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202201031701 Overcoming Fake News - Holy Post.md"
+                "file": "obsidian.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "2665e26ba6d9e452",
   "lastOpenFiles": [
-    "202201031701 Overcoming Fake News - Holy Post.md",
     "obsidian.md",
+    "202201031701 Overcoming Fake News - Holy Post.md",
     "resources/Mark 12_28-34.md",
     "resources/If You Just Do This One Thing.md",
     "resources/HP - Love Your Country.md",
