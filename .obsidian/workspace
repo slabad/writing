@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Authors to Read.md",
+            "file": "To Read.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Authors to Read.md",
+                "file": "To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Authors to Read.md",
+                "file": "To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authors to Read.md"
+                "file": "To Read.md"
               }
             }
           }
@@ -144,14 +144,15 @@
   },
   "active": "fe000ac7af3c7ea1",
   "lastOpenFiles": [
-    "Authors to Read.md",
+    "To Read.md",
+    "journal/2022-01-10.md",
+    "templates/journal template.md",
     "conflict-files-obsidian-git.md",
     "202201070933 DTJ Quote on Turnning the other cheek.md",
     "202201071018 Trump Stole Christmas - Holy Post.md",
     "202201031701 Overcoming Fake News - Holy Post.md",
     "templates/podcast.md",
     "202112291500 The crowd is untruth.md",
-    "journal/2022-01-01.md",
-    "202201011111 Journal.md"
+    "journal/2022-01-01.md"
   ]
 }
