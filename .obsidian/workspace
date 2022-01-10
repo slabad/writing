@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "647be825a775a82c",
+        "id": "4a60bb789bf10c29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/If You Just Do This One Thing.md",
+            "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -17,16 +17,11 @@
         }
       },
       {
-        "id": "2665e26ba6d9e452",
+        "id": "fe000ac7af3c7ea1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "resources/Chris Holtmann Article.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -64,7 +59,7 @@
             }
           },
           {
-            "id": "d7fb01a29d7cc4b2",
+            "id": "c06ff9faca555a99",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -75,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 300
   },
   "right": {
     "id": "e4b513b920544d39",
@@ -91,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Chris Holtmann Article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,27 +97,18 @@
             }
           },
           {
-            "id": "179c88f2baf847d1",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "46a04249a2b13ba9",
+            "id": "8c33caabe77bceff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Chris Holtmann Article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "03dfaf707857f9cf",
+            "id": "b56f5d870272da5a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,34 +119,29 @@
             }
           },
           {
-            "id": "1c9d22900397b8f4",
+            "id": "602b5393a74b1a16",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "resources/Chris Holtmann Article.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2665e26ba6d9e452",
+  "active": "fe000ac7af3c7ea1",
   "lastOpenFiles": [
-    "resources/Chris Holtmann Article.md",
-    "obsidian.md",
+    "conflict-files-obsidian-git.md",
+    "202201070933 DTJ Quote on Turnning the other cheek.md",
+    "202201071018 Trump Stole Christmas - Holy Post.md",
     "202201031701 Overcoming Fake News - Holy Post.md",
-    "resources/Mark 12_28-34.md",
-    "resources/If You Just Do This One Thing.md",
-    "resources/HP - Love Your Country.md",
-    "resources/Deuteronomy 6_4-5.md",
-    "resources/Christians and the pagans.md",
-    "templates/tweet.md",
-    "202201090907 Love your country.md"
+    "templates/podcast.md",
+    "202112291500 The crowd is untruth.md",
+    "journal/2022-01-01.md",
+    "202201011111 Journal.md"
   ]
 }
