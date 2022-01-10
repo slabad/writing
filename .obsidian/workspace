@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Authors to Read.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Authors to Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Authors to Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Authors to Read.md"
+              }
             }
           }
         ],
@@ -140,6 +144,7 @@
   },
   "active": "fe000ac7af3c7ea1",
   "lastOpenFiles": [
+    "Authors to Read.md",
     "conflict-files-obsidian-git.md",
     "202201070933 DTJ Quote on Turnning the other cheek.md",
     "202201071018 Trump Stole Christmas - Holy Post.md",
