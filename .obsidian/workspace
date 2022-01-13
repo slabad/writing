@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201070933 DTJ Quote on Turnning the other cheek.md",
+            "file": "journal/2022-01-12.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Chris Holtmann Article.md",
+                "file": "journal/2022-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Chris Holtmann Article.md",
+                "file": "journal/2022-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Chris Holtmann Article.md"
+                "file": "journal/2022-01-12.md"
               }
             }
           }
@@ -143,17 +143,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fe000ac7af3c7ea1",
+  "active": "4a60bb789bf10c29",
   "lastOpenFiles": [
+    "journal/2022-01-12.md",
+    "202201070933 DTJ Quote on Turnning the other cheek.md",
     "resources/Chris Holtmann Article.md",
     "resources/Christians and the pagans.md",
     "To Read.md",
     "journal/2022-01-10.md",
     "templates/journal template.md",
     "conflict-files-obsidian-git.md",
-    "202201070933 DTJ Quote on Turnning the other cheek.md",
     "202201071018 Trump Stole Christmas - Holy Post.md",
-    "202201031701 Overcoming Fake News - Holy Post.md",
-    "templates/podcast.md"
+    "202201031701 Overcoming Fake News - Holy Post.md"
   ]
 }
