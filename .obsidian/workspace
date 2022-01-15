@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "resources/HP American Inerrancy.md",
+            "file": "journal/2022-01-15.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/HP American Inerrancy.md",
+                "file": "journal/2022-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/HP American Inerrancy.md",
+                "file": "journal/2022-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/HP American Inerrancy.md"
+                "file": "journal/2022-01-15.md"
               }
             }
           }
@@ -131,6 +131,10 @@
   },
   "active": "4fa805e72bfa53dc",
   "lastOpenFiles": [
+    "journal/2022-01-15.md",
+    "test.md",
+    "templates/journal template.md",
+    "templates/sermon.md",
     "resources/HP American Inerrancy.md"
   ]
 }
