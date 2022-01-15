@@ -7,8 +7,13 @@
         "id": "4fa805e72bfa53dc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "resources/HP American Inerrancy.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "resources/HP American Inerrancy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "resources/HP American Inerrancy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "resources/HP American Inerrancy.md"
+              }
             }
           }
         ]
@@ -121,5 +130,7 @@
     "collapsed": true
   },
   "active": "4fa805e72bfa53dc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "resources/HP American Inerrancy.md"
+  ]
 }
