@@ -5,5 +5,6 @@
   "obsidian-outliner",
   "obsidian-admonition",
   "note-refactor-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-pandoc"
 ]
