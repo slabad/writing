@@ -42,7 +42,12 @@ Possible Outline:
 Who is my neighbor?
 * the family next door?
 * the muslim family across the street?
-* the lesbian couple two houses down?
+* the lesbian couple two houses down
+
+How do you react when encountering someone different than you?
+* Levite
+* Preist
+* Samaritan
 
 
 #### Reference
