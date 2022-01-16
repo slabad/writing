@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-01-16.md",
+            "file": "journal/2022-01-15.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-01-16.md",
+                "file": "journal/2022-01-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-01-16.md",
+                "file": "journal/2022-01-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-01-16.md"
+                "file": "journal/2022-01-15.md"
               }
             }
           }
@@ -132,11 +131,11 @@
   },
   "active": "4fa805e72bfa53dc",
   "lastOpenFiles": [
+    "journal/2022-01-15.md",
     "journal/2022-01-16.md",
     "journal/2022-01-10.md",
     "journal/2022-01-03.md",
     "journal/2022-01-12.md",
-    "journal/2022-01-15.md",
     "journal/2022-01-02.md",
     "journal/2022-01-01.md",
     "test.md",
