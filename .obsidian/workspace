@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-01-15.md",
+            "file": "202201080940 Sermon Love God Love People.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-01-15.md",
+                "file": "202201080940 Sermon Love God Love People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-01-15.md",
+                "file": "202201080940 Sermon Love God Love People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-01-15.md"
+                "file": "202201080940 Sermon Love God Love People.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "4fa805e72bfa53dc",
   "lastOpenFiles": [
+    "202201080940 Sermon Love God Love People.md",
     "journal/2022-01-15.md",
     "journal/2022-01-16.md",
     "journal/2022-01-10.md",
@@ -139,7 +140,6 @@
     "journal/2022-01-02.md",
     "journal/2022-01-01.md",
     "test.md",
-    "templates/journal template.md",
-    "templates/sermon.md"
+    "templates/journal template.md"
   ]
 }

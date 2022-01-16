@@ -38,6 +38,13 @@ Possible Outline:
 2. [[202201081252 Love Others]]
 
 
+
+Who is my neighbor?
+* the family next door?
+* the muslim family across the street?
+* the lesbian couple two houses down?
+
+
 #### Reference
 
 [[If You Just Do This One Thing]]
