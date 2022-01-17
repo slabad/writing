@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201080940 Sermon Love God Love People.md",
+            "file": "resources/Understanding the Parable of the good Samaratin.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201080940 Sermon Love God Love People.md",
+                "file": "resources/Understanding the Parable of the good Samaratin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202201080940 Sermon Love God Love People.md",
+                "file": "resources/Understanding the Parable of the good Samaratin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202201080940 Sermon Love God Love People.md"
+                "file": "resources/Understanding the Parable of the good Samaratin.md"
               }
             }
           }
@@ -131,6 +131,7 @@
   },
   "active": "4fa805e72bfa53dc",
   "lastOpenFiles": [
+    "resources/Understanding the Parable of the good Samaratin.md",
     "202201080940 Sermon Love God Love People.md",
     "journal/2022-01-15.md",
     "journal/2022-01-16.md",
@@ -139,7 +140,6 @@
     "journal/2022-01-12.md",
     "journal/2022-01-02.md",
     "journal/2022-01-01.md",
-    "test.md",
-    "templates/journal template.md"
+    "test.md"
   ]
 }
