@@ -38,6 +38,18 @@ Possible Outline:
 2. [[202201081252 Love Others]]
 
 
+
+Who is my neighbor?
+* the family next door?
+* the muslim family across the street?
+* the lesbian couple two houses down
+
+How do you react when encountering someone different than you?
+* Levite
+* Preist
+* Samaritan
+
+
 #### Reference
 
 [[If You Just Do This One Thing]]
