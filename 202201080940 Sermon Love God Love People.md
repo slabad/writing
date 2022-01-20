@@ -40,19 +40,20 @@ Unintended consequences - social media
 
 
 at the end, bring love your neighbor back around
-- Jesus' critiques in the NT were regarding the religious leaders
-- How does the story of the good samaritan relate to today
-	- Samaratains were outsiders 
-		- Immigrants
-		- people who deviated from acceptable cultural norms
-		- Regarded as potentially destructive to the status quo
-			- considered dangerous to the jewish way of life - 
-				- Our kids could be influenced by them!
-	- Levite/Priest
-		- Insiders
-		- Upholders of culture
-		- representative of the status quo
 
+
+
+
+Loving God is Easy?
+- no other gods
+- obedience
+- surrender
+	- Not so easy with a sin nature because our bent is to exalt ourselves and to be like God
+		- That is what Adam and Eve did...where they went
+	- To love God is to take up our cross daily
+		- To follow him regardless of the circumstances that cross our paths
+		- To love God is to continue to embrace him to the point where our friends and family start asking questions.
+- 
 
 Possible Outline:
 1. [[202201081294 Love God]]
@@ -76,7 +77,18 @@ How do you react when encountering someone different than you?
 Loving your neighbor
 - listen to people without responding in the moment
 	- seek to understand rather than educate
-- Understand who the enemy is.
+- Understand who the enemy is.- Jesus' critiques in the NT were regarding the religious leaders
+- How does the story of the good samaritan relate to today
+	- Samaritans were outsiders 
+		- Immigrants
+		- people who deviated from acceptable cultural norms
+		- Regarded as potentially destructive to the status quo
+			- considered dangerous to the jewish way of life - 
+				- Our kids could be influenced by them!
+	- Levite/Priest
+		- Insiders
+		- Upholders of culture
+		- representative of the status quo
 
 
 
