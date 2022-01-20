@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "To Read.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "To Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian.md",
+                "file": "To Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian.md"
+                "file": "To Read.md"
               }
             }
           },
@@ -152,15 +152,15 @@
   },
   "active": "4a60bb789bf10c29",
   "lastOpenFiles": [
+    "To Read.md",
+    "202201080940 Sermon Love God Love People.md",
     "obsidian.md",
     "resources/Understanding the Parable of the good Samaratin.md",
-    "202201080940 Sermon Love God Love People.md",
     "journal/2022-01-17.md",
     "journal/2022-01-16.md",
     "journal/2022-01-12.md",
     "202201070933 DTJ Quote on Turnning the other cheek.md",
     "resources/Chris Holtmann Article.md",
-    "resources/Christians and the pagans.md",
-    "To Read.md"
+    "resources/Christians and the pagans.md"
   ]
 }

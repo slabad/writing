@@ -33,6 +33,27 @@ There's something appealing about that claim, isn't there. If we could just simp
 Let's look together at the Gospel of Mark this morning, chapter 12, and listen to Jesus as he talks about that “one thing” above every other “one thing”.
 ```
 
+Alternative Intro:
+Unintended consequences - social media
+- talk about the current state of social media
+- how it is engineered to drive division
+
+
+at the end, bring love your neighbor back around
+- Jesus' critiques in the NT were regarding the religious leaders
+- How does the story of the good samaritan relate to today
+	- Samaratains were outsiders 
+		- Immigrants
+		- people who deviated from acceptable cultural norms
+		- Regarded as potentially destructive to the status quo
+			- considered dangerous to the jewish way of life - 
+				- Our kids could be influenced by them!
+	- Levite/Priest
+		- Insiders
+		- Upholders of culture
+		- representative of the status quo
+
+
 Possible Outline:
 1. [[202201081294 Love God]]
 2. [[202201081252 Love Others]]
@@ -42,12 +63,24 @@ Possible Outline:
 Who is my neighbor?
 * the family next door?
 * the muslim family across the street?
-* the lesbian couple two houses down
+* the lesbian couple two houses down?
+* the illegal immigrant working three jobs?
+* the person/group on social media who makes my blood boil?
 
 How do you react when encountering someone different than you?
 * Levite
 * Preist
 * Samaritan
+
+
+Loving your neighbor
+- listen to people without responding in the moment
+	- seek to understand rather than educate
+- Understand who the enemy is.
+
+
+
+
 
 
 #### Reference
