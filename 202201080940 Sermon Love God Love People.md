@@ -91,7 +91,17 @@ Loving your neighbor
 		- representative of the status quo
 
 
+Social media 
+- Hackers Podcast
+	- Social media has been hacked...from both sides to sow division and discord
+	- Not just in the United states, but around the world. It is being used to manipulate large populations of people
+		- Think Nazi Germany and propaganda
+		- Story of Orson Wells "War of the Worlds"
 
+
+Who is my neighbor?
+- what would Jesus say today?
+	- 
 
 
 
