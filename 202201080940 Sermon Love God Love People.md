@@ -61,17 +61,7 @@ Possible Outline:
 
 
 
-Who is my neighbor?
-* the family next door?
-* the muslim family across the street?
-* the lesbian couple two houses down?
-* the illegal immigrant working three jobs?
-* the person/group on social media who makes my blood boil?
 
-How do you react when encountering someone different than you?
-* Levite
-* Preist
-* Samaritan
 
 
 Loving your neighbor
@@ -80,11 +70,16 @@ Loving your neighbor
 - Understand who the enemy is.- Jesus' critiques in the NT were regarding the religious leaders
 - How does the story of the good samaritan relate to today
 	- Samaritans were outsiders 
-		- Immigrants
+		- Immigrants/half breeds
 		- people who deviated from acceptable cultural norms
 		- Regarded as potentially destructive to the status quo
 			- considered dangerous to the jewish way of life - 
 				- Our kids could be influenced by them!
+		- Why were they hated? See [[Why The Jews Hated The Samaritans]]
+			- Cultural reasons
+				- different religious practices
+					- Kind of like Muslims
+					- Worshiped Jehovah, but it was mixed up
 	- Levite/Priest
 		- Insiders
 		- Upholders of culture
@@ -100,10 +95,23 @@ Social media
 
 
 Who is my neighbor?
-- what would Jesus say today?
-	- 
+- Who would Jesus have used in place of the Samaritan today?
+	- the muslim family across the street?
+	* the married lesbian couple two houses down?
+	* the illegal immigrant working three jobs?
+	* the person/group on social media who makes my blood boil?
 
+How do you react when encountering someone different than you?
+* Levite/Preist
+	* Avoid
+	* Ignore
+* Samaritan
+- all kinds of options
 
+All kinds of wrong with this story
+- the samaritan is the good guy - the example of how to live
+- The bad guys were the religious leaders of the day
+	- These were the "role models" who showed others how to live
 
 #### Reference
 
