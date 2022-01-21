@@ -5,7 +5,7 @@ Richard Powers
 Amor Towles
 Anthony Doerr
 Kristen Hannah
-
+Edward Rutherfurd (historical fiction - UK)
 
 # Books
 Rebecca Donner https://www.amazon.com/All-Frequent-Troubles-Our-Days/dp/031656169X?tag=NYTBS-20
