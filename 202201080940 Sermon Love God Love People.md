@@ -65,6 +65,10 @@ Possible Outline:
 
 
 Loving your neighbor
+- The opposite of what comes natural
+	- Natural is
+		- judge your neighbor, covet your neighbor's stuff
+		- 
 - listen to people without responding in the moment
 	- seek to understand rather than educate
 - Understand who the enemy is.- Jesus' critiques in the NT were regarding the religious leaders
@@ -105,6 +109,8 @@ How do you react when encountering someone different than you?
 * Levite/Preist
 	* Avoid
 	* Ignore
+	* These were good people
+		* They found good reasons to walk on by
 * Samaritan
 - all kinds of options
 
@@ -112,6 +118,73 @@ All kinds of wrong with this story
 - the samaritan is the good guy - the example of how to live
 - The bad guys were the religious leaders of the day
 	- These were the "role models" who showed others how to live
+
+
+Jamey Dickens - Price Check
+https://northpoint.org/messages/love-thy-neighbor/price-check
+Two things - 
+- How we think: Value
+	- You know how valuable something is by what someone is willing to pay
+		- What is our value, what is our neighbor's value
+		- This is the thing that can change our perspective
+		- 1 Peter 1:18
+			- You were not redeemed with silver and gold
+			- We were bought back with the blood of Christ
+				- This is our worth to God
+			- This tells us our value
+		- Not only true of us but also of our neighbor
+			- God tells us how much our neighbor is worth
+		- We have immense value
+			- How do we treat something of immense value?
+				- With great care
+	-  We should put a price tag on others in the same way Jesus does
+		- The price he put on our lives, was his own.
+		- We ought to value people the same way Jesus did
+		- We ought to look at others and put a price on them
+			- the blood of Jesus...the sacrifice on Jesus
+			- The value of the lives around us is higher than the position we hold.
+	- Everyone is someone
+- What we do:
+	- We can "think" correctly all we want, but without 
+	- The good Samaritan is Intense action
+	- Three things
+		- A need to Notice
+			- Do we see needs around us?
+			- Loving your neighbor means noticing their need
+			- The hero of the story was hugely controversial
+				- Samaritan
+					- Centuries of national conflict, religious and racial tension
+		- Barrier to breakthrough
+			- Comfort, social norms, patriotism, religion, status, racial prejudice
+			- The barriers between these two were immense
+			- Three men walked by, only one took notice and pitied
+			- What barriers have stopped you from loving your neighbor
+			- What stops us from loving our neighbor
+				- baggage not our bank account
+					- discomfort, messiness, inconveniences, differences
+					- Barriers that have been built and bolstered by the media
+		- Price to pay
+			- time, money
+			- we are called to pay the price for our neighbor's healing
+	- "Go and do likewise"
+		- 4 powerful words
+
+A good samaritan is not something to describe a hero...it is a term to describe a Christian...a Jesus follower!
+
+Loving our neighbor means we don't just walk by...
+
+
+We are called to love people regardless of...
+- religion, lifestyle, beliefs, race, nationality
+
+We Judge...
+- someone's response
+- lack of response
+- action 
+- lack of action
+- Someone's beliefs
+	- We are quick to cry heretic
+	- We value right thought over people
 
 #### Reference
 
