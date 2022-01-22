@@ -190,3 +190,6 @@ We Judge...
 
 [[If You Just Do This One Thing]]
 https://sermonwriter.com/biblical-commentary/new-testament-mark-1228-34/
+
+Good Samaritan Sermon - Jamey Dickens
+https://northpoint.org/messages/love-thy-neighbor/the-one-who-stopped-walking
