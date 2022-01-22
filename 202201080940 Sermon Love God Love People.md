@@ -69,7 +69,6 @@ Loving your neighbor
 - The opposite of what comes natural
 	- Natural is
 		- judge your neighbor, covet your neighbor's stuff
-		- 
 - listen to people without responding in the moment
 	- seek to understand rather than educate
 - Understand who the enemy is.- Jesus' critiques in the NT were regarding the religious leaders
