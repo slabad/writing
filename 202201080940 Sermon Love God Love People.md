@@ -137,7 +137,7 @@ Two things -
 		- We have immense value
 			- How do we treat something of immense value?
 				- With great care
-	-  We should put a price tag on others in the same way Jesus does
+	- We should put a price tag on others in the same way Jesus does
 		- The price he put on our lives, was his own.
 		- We ought to value people the same way Jesus did
 		- We ought to look at others and put a price on them
