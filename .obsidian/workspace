@@ -1,23 +1,10 @@
 {
   "main": {
-    "id": "0bd96ce7c10de244",
+    "id": "d61a928bc3e74450",
     "type": "split",
     "children": [
       {
-        "id": "4fa805e72bfa53dc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202201080940 Sermon Love God Love People.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cfac9e1756c88ed0",
+        "id": "4a60bb789bf10c29",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -28,20 +15,46 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e12231945675e6fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202201080940 Sermon Love God Love People.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fe000ac7af3c7ea1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "resources/Chris Holtmann Article.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5aab4114559ca245",
+    "id": "acdd1c808ee44f5c",
     "type": "split",
     "children": [
       {
-        "id": "8645ede2bafe8831",
+        "id": "d268c74781385435",
         "type": "tabs",
         "children": [
           {
-            "id": "a53c2f49464afee1",
+            "id": "7e363b3ba991be9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,7 +62,7 @@
             }
           },
           {
-            "id": "265f7651064ef63e",
+            "id": "5323c83050cbb627",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +77,7 @@
             }
           },
           {
-            "id": "d609187fa53485c0",
+            "id": "c06ff9faca555a99",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -78,15 +91,15 @@
     "width": 300
   },
   "right": {
-    "id": "c6d756456c9f2291",
+    "id": "e4b513b920544d39",
     "type": "split",
     "children": [
       {
-        "id": "c277befa024a7e45",
+        "id": "96f2ec47a44f06e5",
         "type": "tabs",
         "children": [
           {
-            "id": "37d92e398fd23cb9",
+            "id": "0439f272856110ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +116,7 @@
             }
           },
           {
-            "id": "46aae743e29822f4",
+            "id": "8c33caabe77bceff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -115,7 +128,7 @@
             }
           },
           {
-            "id": "d328f4fdb4dccc13",
+            "id": "b56f5d870272da5a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,7 +139,7 @@
             }
           },
           {
-            "id": "6dc894c1129d1454",
+            "id": "602b5393a74b1a16",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,10 +149,10 @@
             }
           },
           {
-            "id": "87b76f0ae17dc922",
+            "id": "328905412708b49f",
             "type": "leaf",
             "state": {
-              "type": "dictionary-view",
+              "type": "git-view",
               "state": {}
             }
           }
@@ -150,17 +163,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4fa805e72bfa53dc",
+  "active": "e12231945675e6fa",
   "lastOpenFiles": [
     "202201080940 Sermon Love God Love People.md",
-    "resources/What is the value of a human life.md",
-    "resources/Deuteronomy 6_4-5.md",
+    "conflict-files-obsidian-git.md",
     "202201081094 Mark 12_28_34.md",
-    "samaritans.md",
-    "resources/Why The Jews Hated The Samaritans.md",
-    "202201031701 Overcoming Fake News - Holy Post.md",
+    "202201071018 Trump Stole Christmas - Holy Post.md",
+    "To Read.md",
+    "obsidian.md",
     "resources/Understanding the Parable of the good Samaratin.md",
-    "journal/2022-01-15.md",
-    "journal/2022-01-16.md"
+    "journal/2022-01-17.md",
+    "journal/2022-01-16.md",
+    "journal/2022-01-12.md"
   ]
 }
