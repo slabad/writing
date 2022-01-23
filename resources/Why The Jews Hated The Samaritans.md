@@ -1,5 +1,5 @@
 created: 2022-01-20T18:52:14 (UTC -05:00)
-tags: [[samaritans]] [[Israel]] 
+tags: [[202201231414 samaritans]] [[Israel]] 
 source: https://truthbook.com/jesus/why-the-jews-hated-the-samaritans/
 author: 
 

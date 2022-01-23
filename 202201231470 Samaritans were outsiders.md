@@ -1,0 +1,15 @@
+Samaritans were outsiders 
+		- Immigrants/half breeds
+		- people who deviated from acceptable cultural norms
+		- Regarded as potentially destructive to the status quo
+			- considered dangerous to the jewish way of life - 
+				- Our kids could be influenced by them!
+		- Why were they hated? See [[Why The Jews Hated The Samaritans]]
+			- Cultural reasons
+				- different religious practices
+					- Kind of like Muslims
+					- Worshiped Jehovah, but it was mixed up
+	- Levite/Priest
+		- Insiders
+		- Upholders of culture
+		- representative of the status quo

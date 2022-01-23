@@ -1,10 +1,31 @@
 {
   "main": {
-    "id": "d61a928bc3e74450",
+    "id": "0bd96ce7c10de244",
     "type": "split",
     "children": [
       {
-        "id": "4a60bb789bf10c29",
+        "id": "20ff002a17c828b4",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "007db5bf56c5d051",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "resources/Jamey Dickens - Price Check.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cfac9e1756c88ed0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,46 +36,20 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "e12231945675e6fa",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202201080940 Sermon Love God Love People.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "fe000ac7af3c7ea1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "resources/Chris Holtmann Article.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acdd1c808ee44f5c",
+    "id": "5aab4114559ca245",
     "type": "split",
     "children": [
       {
-        "id": "d268c74781385435",
+        "id": "8645ede2bafe8831",
         "type": "tabs",
         "children": [
           {
-            "id": "7e363b3ba991be9c",
+            "id": "a53c2f49464afee1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +57,7 @@
             }
           },
           {
-            "id": "5323c83050cbb627",
+            "id": "265f7651064ef63e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +72,7 @@
             }
           },
           {
-            "id": "c06ff9faca555a99",
+            "id": "d609187fa53485c0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -91,20 +86,19 @@
     "width": 300
   },
   "right": {
-    "id": "e4b513b920544d39",
+    "id": "c6d756456c9f2291",
     "type": "split",
     "children": [
       {
-        "id": "96f2ec47a44f06e5",
+        "id": "c277befa024a7e45",
         "type": "tabs",
         "children": [
           {
-            "id": "0439f272856110ef",
+            "id": "37d92e398fd23cb9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202201080940 Sermon Love God Love People.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,19 +110,18 @@
             }
           },
           {
-            "id": "8c33caabe77bceff",
+            "id": "46aae743e29822f4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202201080940 Sermon Love God Love People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b56f5d870272da5a",
+            "id": "d328f4fdb4dccc13",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,20 +132,18 @@
             }
           },
           {
-            "id": "602b5393a74b1a16",
+            "id": "6dc894c1129d1454",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202201080940 Sermon Love God Love People.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "328905412708b49f",
+            "id": "87b76f0ae17dc922",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "dictionary-view",
               "state": {}
             }
           }
@@ -163,17 +154,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e12231945675e6fa",
+  "active": "20ff002a17c828b4",
   "lastOpenFiles": [
+    "test.md",
+    "202201231414 samaritans.md",
     "202201080940 Sermon Love God Love People.md",
-    "conflict-files-obsidian-git.md",
-    "202201081094 Mark 12_28_34.md",
-    "202201071018 Trump Stole Christmas - Holy Post.md",
-    "To Read.md",
+    "templates/sermon.md",
     "obsidian.md",
-    "resources/Understanding the Parable of the good Samaratin.md",
-    "journal/2022-01-17.md",
-    "journal/2022-01-16.md",
-    "journal/2022-01-12.md"
+    "202201231470 Samaritans were outsiders.md",
+    "conflict-files-obsidian-git.md",
+    "202201122103 Digital Babylon.md",
+    "202201081094 Mark 12_28_34.md",
+    "202201081122 Paganizing Church.md"
   ]
 }
