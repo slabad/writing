@@ -30,7 +30,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202201081094 Mark 12_28_34.md",
+            "file": "test.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "test.md"
+              }
             }
           },
           {
@@ -148,15 +152,16 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "20ff002a17c828b4",
+  "active": "cfac9e1756c88ed0",
   "lastOpenFiles": [
     "test.md",
+    "202201081094 Mark 12_28_34.md",
     "202201231414 samaritans.md",
     "202201080940 Sermon Love God Love People.md",
     "templates/sermon.md",
@@ -164,7 +169,6 @@
     "202201231470 Samaritans were outsiders.md",
     "conflict-files-obsidian-git.md",
     "202201122103 Digital Babylon.md",
-    "202201081094 Mark 12_28_34.md",
     "202201081122 Paganizing Church.md"
   ]
 }
