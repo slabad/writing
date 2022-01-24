@@ -12,19 +12,6 @@
         }
       },
       {
-        "id": "007db5bf56c5d051",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "resources/Jamey Dickens - Price Check.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "cfac9e1756c88ed0",
         "type": "leaf",
         "state": {
@@ -156,11 +143,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "cfac9e1756c88ed0",
   "lastOpenFiles": [
     "test.md",
+    "202201081122 Paganizing Church.md",
     "202201081094 Mark 12_28_34.md",
     "202201231414 samaritans.md",
     "202201080940 Sermon Love God Love People.md",
@@ -168,7 +157,6 @@
     "obsidian.md",
     "202201231470 Samaritans were outsiders.md",
     "conflict-files-obsidian-git.md",
-    "202201122103 Digital Babylon.md",
-    "202201081122 Paganizing Church.md"
+    "202201122103 Digital Babylon.md"
   ]
 }
